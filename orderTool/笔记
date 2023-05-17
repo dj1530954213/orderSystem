@@ -1,0 +1,2 @@
+打包工具：pyinstaller
+使用方法：pyinstaller TicketTool.py --noconsole --hidden-import PySide2.QtXml
